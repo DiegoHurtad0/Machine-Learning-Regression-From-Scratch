@@ -70,9 +70,32 @@ Random Forest Regressor From Scratch in Python
 <h3 align="left">Data Science Tools:</h3>
 <img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="plotly" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
 
+<br>
+<br>
 
 <!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// //-->
 
+<br>
+<h1 align="center" href="https://medium.com/@diego.hurtado.olivares/predicting-taxi-fare-in-new-york-city-c5dd4aef55f4" > XGBoost Regressor From Scratch in Python </h1>
+
+<a href="https://github.com/DiegoHurtad0/Linear-Regression-Model-Representation-Implementation-From-Scratch-using-Python" target="blank"><img height="460" width="460" align="right" src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*6xnHYe__u8xiJWm_KsWgMw.png" /></a>
+
+<h3 align="left">Summary:</h3>
+XGBoost Regressor From Scratch in Python
+<h3 align="left">Check it here:</h3>
+<a href="https://github.com/DiegoHurtad0/Linear-Regression-Model-Representation-Implementation-From-Scratch-using-Python" target="blank"><img align="left" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="diegohurtadoo" height="30" width="40" /></a>
+<br>
+</p>
+ 
+<h3 align="left">Languages:</h3>
+<a href="" target="blank"><img align="left" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="diegohurtadoo" height="30" width="40" /></a>
+<br>
+</p>
+<h3 align="left">Data Science Tools:</h3>
+<img src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg" alt="plotly" width="40" height="40"/> </a> <a href="" target="_blank" rel="noreferrer">
+
+
+<!-- //////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// //-->
 
 <br>
 <br>
